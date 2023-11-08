@@ -34,3 +34,8 @@ tests/_support/_generated
 
 #vagrant folder
 /.vagrant
+
+# web assets
+/web/assets/*
+# except this folder
+!/web/assets/new_rekmed_asset 
